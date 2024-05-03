@@ -24,4 +24,7 @@ Problèmes:\
           -changement du câblage passant de 3 phases à 1 phase car variateur de vitesse à une phase 16/04/24\
           -changement du variateur de vitesse car finalement ne peut pas être utilisé et réception d'un autre beaucoup plus grand qui entraîne une modification de l'agencement pré-établi dans l'armoire (découpe à refaire)16/04/24 \
           -rechangement du variateur 19/04/24 \
+
+
+IHM : illustration, afficheure de vitesse, emplacement des pièces, boutons(arrêt,marche,gauche,droite), erreur, auto, manu, gestions d'utilisateurs  
           

@@ -15,6 +15,7 @@ Fait:\
       -suite des modifications 29/04/24\
       -correction du programme, étude du fonctionnement des boutons et voyants et intégration à la porte 30/04/24 \
       -chargement du programme 02/05/24 \
+      -imaginer l'ihm 03/05/24
 
 Problèmes:\
 \
@@ -24,6 +25,7 @@ Problèmes:\
           -changement du câblage passant de 3 phases à 1 phase car variateur de vitesse à une phase 16/04/24\
           -changement du variateur de vitesse car finalement ne peut pas être utilisé et réception d'un autre beaucoup plus grand qui entraîne une modification de l'agencement pré-établi dans l'armoire (découpe à refaire)16/04/24 \
           -rechangement du variateur 19/04/24 \
+          -restriction admin 03/05/24
 
 
 IHM : illustration, afficheure de vitesse, emplacement des pièces, boutons(arrêt,marche,gauche,droite), erreur, auto, manu, gestions d'utilisateurs  

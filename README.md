@@ -1,5 +1,13 @@
 # SAE5_Bande_Transporteuse
 
+![](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/iut%20logo.png)
+
+### Equipe : Kamil AIMAR / Younes AMZERT / Mehdi BELABAOUB 
+### Référents : M. Eric HUEBER / M. Benjamin MOURLLION
+## Déroulé du projet
+
+
+
 Analyse et planification du projet(mindview,gantt) 08/04/24 \
 
 

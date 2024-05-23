@@ -6,7 +6,14 @@
 ### Référents : M. Eric HUEBER / M. Benjamin MOURLLION
 ## Déroulé du projet
 
-
+## Initialisation
+## Schématisation sur See Electrical
+## Programmation sur EcoStruxure Machine Expert
+## Structuration de l'armoire
+## Câblage
+## Premiers test
+## Programmation sur EcoStruxure Operator Terminal Expert
+## Test IHM
 
 Analyse et planification du projet(mindview,gantt) 08/04/24 \
 

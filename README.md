@@ -19,9 +19,9 @@ Cahier des charges:
 ### Schématisation sur See Electrical
 ### Programmation sur EcoStruxure Machine Expert
 ### Structuration de l'armoire
-![](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/id%C3%A9e%20final.jpg)
-<img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/structure.jpg" alt="Description de l'image" width="300" height="300"/>
-<img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/d%C3%A9coupe%20rail.jpg" alt="Description de l'image" width="300" height="300"/>
+
+<img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/id%C3%A9e%20final.jpg" alt="Description de l'image" width="300" height="300"/>
+
 ### Câblage
 ### Test
 ## IHM

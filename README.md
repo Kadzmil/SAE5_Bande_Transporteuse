@@ -4,7 +4,15 @@
 
 ### Equipe : Kamil AIMAR / Younes AMZERT / Mehdi BELABAOUB 
 ### Référents : M. Eric HUEBER / M. Benjamin MOURLLION
-## Déroulé du projet
+## Cahier des charges
+
+Cahier des charges:\
+\
+- Fabrication d'une bande transporteurse et l'integration d'une supervision IHM capable de piloter la bande transporteuse depuis l'IHM\
+- IHM comporte une vue automatique, manuel\
+- Integration d'une marche avant et arriere de la bande transorteuse\
+- Bouton mise en marche du moteur\
+- Voyant mise en service, arret et de defaut\
 
 ## Initialisation
 ## Bande Transporteuse

@@ -20,6 +20,7 @@ Cahier des charges:
 ### Programmation sur EcoStruxure Machine Expert
 ### Structuration de l'armoire
 ![](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/id%C3%A9e%20final.jpg)
+<img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/structure.jpg" alt="Description de l'image" width="300" height="200"/>
 ### Câblage
 ### Test
 ## IHM

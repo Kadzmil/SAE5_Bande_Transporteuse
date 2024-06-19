@@ -114,15 +114,47 @@ Fait:
 Probelèmes:
             -non disponibilité du materiel
 
+
 11/06/2024
 
 Fait:
             -Amelioration ergonomique des vues IHM
             -Etude des vues boutons sur l'IHM afin d'integrer les variables
             -Ajout d'un transformateur dans la boite
+            -Premier test IHM
 
 Probelèmes:
             -ReModification du schema electrique de la boite
+            -IHM grillée
+
+
+13/06/2024
+
+Fait:
+            -recâblage de la partie commande à l'aide du nouveau transformateur AC
+            -câbalge de l'ihm à l'aide d'un autre nouveau transformateur DC
+            -deuxième test IHM
+
+Problèmes:
+            -Décalage de l'interface lors du transfert
+            -Aucune réaction lors d'appui sur les boutons de l'interface
+
+
+18/06/2024
+
+Fait:
+            -toisième test IHM
+            -percage pour câble moteur
+            -câblage moteur
+
+
+19/06/2024
+
+Fait:
+            -ajout d'un bouton stop
+            -percage pour câble d'alimentation
+            -préparation du diapo
+            -actualisation du GitHub
 
 
 

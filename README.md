@@ -14,9 +14,7 @@
 - Voyant sous tension et fonctionnement moteur
   
 ## Initialisation
-![image_2024-06-26_181003562](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/57004fb4-d781-400c-a31f-79c30b8bdde6)  AUtomate
-
-![image_2024-06-26_181118490](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/831012e9-c399-4229-ab2c-e2859a1c2e7c) IHM
+![image_2024-06-26_181003562](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/57004fb4-d781-400c-a31f-79c30b8bdde6)  Automate ![image_2024-06-26_181118490](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/831012e9-c399-4229-ab2c-e2859a1c2e7c) IHM
 
 ![image_2024-06-26_190020088](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5483d57e-bd89-4138-9a49-2c1c878cee80) Composants
 
@@ -33,7 +31,7 @@
 ### Structuration de l'armoire
 
 <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/premi%C3%A8re_id%C3%A9e.jpg" alt="Description de l'image" width="300" height="300"/> <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/id%C3%A9e%20final.jpg" alt="Description de l'image" width="300" height="300"/>  \
-Premier prototype&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choix finale pour la porte
+Premier prototype&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deuxième prototype
 
 ![image_2024-06-26_181259342](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5a81e285-2322-4311-9d47-31ed9a82efe7)  Résultat final
 ### Câblage

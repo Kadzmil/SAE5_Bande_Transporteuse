@@ -25,7 +25,7 @@ Affichage de la position des pièces sur le tapis de la bande transporteuse.\
 Alerte de Maintenance Préventive :\
 Notifications automatiques pour la maintenance à réaliser.\
 Historique des interventions de maintenance et des alertes pour un suivi précis.\
-2.3. Mode Manuel\
+2.3. Mode Manuel
 
 Commandes :\
 Boutons situés sur l'armoire de contrôle pour la manipulation manuelle.\

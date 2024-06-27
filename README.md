@@ -32,12 +32,12 @@ Boutons situés sur l'armoire de contrôle pour la manipulation manuelle.\
 Bouton de marche avant pour avancer la bande transporteuse.\
 Bouton de marche arrière pour reculer la bande transporteuse.\
 Bouton de mise en marche pour démarrer le moteur.\
-Bouton d'arrêt pour arrêter le moteur.\
+Bouton d'arrêt pour arrêter le moteur.
 
 Indicateurs Visuels :\
 Voyant de mise en service pour indiquer que l'armoire est alimentée.\
 Voyant d'arrêt pour indiquer que la bande est arrêtée.\
-Voyant de défaut pour indiquer une anomalie ou un dysfonctionnement.\
+Voyant de défaut pour indiquer une anomalie ou un dysfonctionnement.
 
 3. Exigences Fonctionnelles
 3.1. En Mode Automatique\

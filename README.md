@@ -103,16 +103,16 @@ Lors de l'anvancée du projet nous avons dû passer de 3 à 1 phase et supprimer
 ![rung1](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/6467ab2e-b94d-42b6-ada0-595c6a4e2d1a) exemple étape
 
 ### Structuration de l'armoire
-
-![](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/structure.jpg) 
-
-![](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/d%C3%A9coupe%20IHM.jpg)
+En ce qui concerne l'agencement de l'armoire électrique, il a fallu dans un premier temps découper dans les bonnes dimensions des rails et des goulottes pour les fixer sur la plaque métallique qui soutiendra le tout dans l'armoire afin de justememnt pouvoir mettre nos composants et câbles. 
+<img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/structure.jpg" alt="Description de l'image" width="600" height="600"/>
+Une fois l'intérieur de prêt, il a fallu préparer la porte à l'acceuil de boutons et voyants ainsi que l'IHM. C'est pourquoi pour commencer, nous avons dû essayer d'imaginer différentes combinaison afin de trouver le placement le plus ergonomique et esthétique. 
 
 <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/premi%C3%A8re_id%C3%A9e.jpg" alt="Description de l'image" width="300" height="300"/> <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/deuxi%C3%A8me%20id%C3%A9e.jpg" alt="Description de l'image" width="300" height="300"/> <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/id%C3%A9e%20final.jpg" alt="Description de l'image" width="300" height="300"/>  \
 **Premier prototype**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Deuxième prototype**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Troisième prototype**
 
+<img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/d%C3%A9coupe%20IHM.jpg" alt="Description de l'image" width="600" height="600"/>
 
-
+nous avons mesurer le diamètre des boutons et la taille del'IHM
 
 ![image_2024-06-26_181259342](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5a81e285-2322-4311-9d47-31ed9a82efe7)  **Résultat final**
 ### Câblage

@@ -42,14 +42,14 @@ Voyant de défaut pour indiquer une anomalie ou un dysfonctionnement.
 3. Exigences Fonctionnelles
 3.1. En Mode Automatique\
 La bande transporteuse doit être contrôlable depuis l'IHM.\
-La position des pièces sur la bande doit être affichée avec précision en temps réel.\
+La position des pièces sur la bande doit être affichée avec précision en temps réel.
 
 3.2. En Mode Manuel
 
 Les commandes doivent être accessibles et faciles à utiliser depuis l'armoire de contrôle.\
 Les fonctions de marche avant et arrière doivent être distinctes et clairement identifiées.\
 Les boutons de mise en marche et d'arrêt du moteur doivent être facilement accessibles.\
-Les voyants doivent fournir des indications claires et visibles sur l'état du système.\
+Les voyants doivent fournir des indications claires et visibles sur l'état du système.
 
 4. Exigences de Performance
    
@@ -61,7 +61,7 @@ Rapidité : Temps de réponse rapide pour la mise en marche et l'arrêt.\
 Alerte Préventive : Notifications automatiques pour planifier les interventions de maintenance.\
 Accessibilité : Composants facilement accessibles pour l'entretien et les réparations.\
 6. Planning    \
-Étude et conception : 12 semaines.\
+Étude et conception : 12 semaines.
 
   
 ## Initialisation

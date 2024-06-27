@@ -72,6 +72,7 @@ Accessibilité : Composants facilement accessibles pour l'entretien et les répa
 
   
 ## Initialisation
+Pour ce projet du matériel Schneider a été majoritairement été utilisé. L’automate est un M221TEC40R qui va être alimenté en 230V AC et l’IHM un HARMONY alimenté en 24V DC.  
 ![image_2024-06-26_181003562](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/57004fb4-d781-400c-a31f-79c30b8bdde6)  Automate ![image_2024-06-26_181118490](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/831012e9-c399-4229-ab2c-e2859a1c2e7c) IHM
 
 ![image_2024-06-26_190020088](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5483d57e-bd89-4138-9a49-2c1c878cee80) Composants
@@ -80,7 +81,7 @@ Accessibilité : Composants facilement accessibles pour l'entretien et les répa
 ### Schématisation sur See Electrical
 
 Pour ce qui est des schémas au début nous sommes parti pour un système classique à 3 phases et 2 contacteurs. Ce système nous permets de pouvoir avoir les 2 sens de direction grace à l'inversion des phases sur l'un de nos contacteur. Vous pouver l'apercevoir ci dessous sur les deux premières images les anciens schémas de puissance et commande. \
-![image_2024-06-26_181813138](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/3fd3cfca-3802-4a60-8b2d-3dd87447bde3) ![image_2024-06-26_181931456](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/cad9af3e-df7c-42e1-8cf6-088511da8eaa) ancien circuit de puissance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ancien circuit de commande \
+![image_2024-06-26_181813138](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/3fd3cfca-3802-4a60-8b2d-3dd87447bde3) ![image_2024-06-26_181931456](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/cad9af3e-df7c-42e1-8cf6-088511da8eaa) **Ancien circuit de puissance**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ancien circuit de commande** \
 \
 Lors de l'anvancée du projet nous avons dû passer de 3 à 1 phase et supprimer un contacteur en raison du variateur de vitesse. De plus, 2 transformateurs ont été rajouté afin de pouvoir alimenter comme dis précédemment l'IHM et les boutons. C'est pourquoi de nouveau schémas ont été réalisé et sont consultable ci-dessous.
 ![nv circuit puissance (1)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/e8e3ff0e-029f-4d7b-bd63-47c852e424e0) nv circuit de puissance

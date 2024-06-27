@@ -71,11 +71,20 @@ Accessibilité : Composants facilement accessibles pour l'entretien et les répa
 Étude et conception : 12 semaines.
 
   
-## Initialisation
-Pour ce projet du matériel Schneider a été majoritairement été utilisé. L’automate est un M221TEC40R qui va être alimenté en 230V AC et l’IHM un HARMONY alimenté en 24V DC.  
-![image_2024-06-26_181003562](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/57004fb4-d781-400c-a31f-79c30b8bdde6)  Automate ![image_2024-06-26_181118490](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/831012e9-c399-4229-ab2c-e2859a1c2e7c) IHM
+## Inventaire
+Pour ce projet du matériel Schneider a été majoritairement été utilisé. L’automate est un M221TEC40R qui va être alimenté en 230V AC et l’IHM est un HARMONY alimenté en 24V DC.  
+![image_2024-06-26_181003562](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/57004fb4-d781-400c-a31f-79c30b8bdde6)  ![image_2024-06-26_181118490](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/831012e9-c399-4229-ab2c-e2859a1c2e7c) 
+
+Pour ce qui est des protections on a tout d'abord dans l'ordre un disjoncteur moteur magnétothermique qui va permettre de détecter et d'interrompre le courant électrique en cas de surcharge ou de court-circuit pour le moteur, deux disjoncteurs magnétothermique exerçant les mêmes fonctionnalités pour l'IHM et l'entrée du circuit ainsi qu'un sectionneur porte fusible pouvant à la fois protéger de la même manière que les disjoncteurs mais aussi être utilisé comme dispositifs afin de garantir qu'un circuit est complètement hors tension lorsqu'il doit être entretenu ou réparéutiliser en isoleant une partie de ce dernier. Ceci était pour la ligne du haut.\
+Pour celle du bas nous avons un contacteur permettant d'ouvrir ou fermer un circuit sur réception d'un signal électrique, le transformateur qui va nous délivrer du 24V AC pour les boutons puis le variateur de vitesse qui a comme fonction de choisir le sens de marche ainsi que la vitesse.
 
 ![image_2024-06-26_190020088](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5483d57e-bd89-4138-9a49-2c1c878cee80) Composants
+
+Deplus, voici le transformateur rajouté à la fin permettant de nous délivrer la tension voulue pour alimenter l'IHM qui est du 24V DC.
+
+![image_2024-06-27_152816101](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/0ceb58ac-3c7b-4fa4-8c1c-e95fdc8a95ba)
+
+Lors de notre projet nous avons du naviguer à travers différents variateur voici les 3 utilisés dans l'ordre chronologique. Les 2 premiers n'ont pas été retenu car soit quelqu'un d'autre en avait besoin soit il était trop grand, mais une caractéristique les unies, ils fonctionnent en monophasé et non triphasé.
 
 ![image_2024-06-26_182547281](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/545d7291-69f0-470c-86e3-5cb8753d7e31) 3 variateurs
 ### Schématisation sur See Electrical
@@ -98,6 +107,7 @@ Premier prototype&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 ![image_2024-06-26_181259342](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5a81e285-2322-4311-9d47-31ed9a82efe7)  Résultat final
 ### Câblage
+![image_2024-06-27_153113325](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/c8ba61db-8181-4767-9609-208e03500b76)
 ### Test
 ## IHM
 ### Programmation sur EcoStruxure Operator Terminal Expert

@@ -112,15 +112,17 @@ Une fois l'intérieur de prêt, il a fallu préparer la porte à l'acceuil de bo
 <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/premi%C3%A8re_id%C3%A9e.jpg" alt="Description de l'image" width="300" height="300"/> <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/deuxi%C3%A8me%20id%C3%A9e.jpg" alt="Description de l'image" width="300" height="300"/> <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/id%C3%A9e%20final.jpg" alt="Description de l'image" width="300" height="300"/>  \
 **Premier prototype**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Deuxième prototype**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Troisième prototype**
 
+  
+Une fois la devanture décidé nous avons mesurer le diamètre des boutons et la taille de l'IHM pour effectuer les découpes et le percage.
 <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/d%C3%A9coupe%20IHM.jpg" alt="Description de l'image" width="600" height="600"/>
 
-Une fois la devanture décidé nous avons mesurer le diamètre des boutons et la taille de l'IHM pour effectuer les découpes et le percage.
-![image_2024-06-27_153113325](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/c8ba61db-8181-4767-9609-208e03500b76)
 
-Voici donc ce à quoi la porte ressemble, pour ce qui est de l'intérieur la photo au commencement du projet a été perdu mais vous pouvez apercevoir ce à quoi elle ressemble à la fin dans la partie câblage.
-![image_2024-06-26_181259342](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5a81e285-2322-4311-9d47-31ed9a82efe7)  **Résultat final**
+
+
+Voici donc ce à quoi la porte ressemble, pour ce qui est de l'intérieur la photo au commencement du projet a été perdu mais vous pouvez apercevoir ce à quoi elle ressemble à la fin dans la partie suivante qui est le câblage.  
+![image_2024-06-26_181259342](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5a81e285-2322-4311-9d47-31ed9a82efe7)  
 ### Câblage
-
+![image_2024-06-27_153113325](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/c8ba61db-8181-4767-9609-208e03500b76)
 ### Test
 ## IHM
 ### Programmation sur EcoStruxure Operator Terminal Expert

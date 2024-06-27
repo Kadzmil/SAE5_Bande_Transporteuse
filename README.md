@@ -55,11 +55,11 @@ Les voyants doivent fournir des indications claires et visibles sur l'état du s
    
 Fiabilité : Fonctionnement continu et sans interruption sur de longues périodes.\
 Précision : Détection précise de la position des pièces sur la bande.\
-Rapidité : Temps de réponse rapide pour la mise en marche et l'arrêt.\
+Rapidité : Temps de réponse rapide pour la mise en marche et l'arrêt.
 
 5. Exigences de Maintenance
 Alerte Préventive : Notifications automatiques pour planifier les interventions de maintenance.\
-Accessibilité : Composants facilement accessibles pour l'entretien et les réparations.\
+Accessibilité : Composants facilement accessibles pour l'entretien et les réparations.
 6. Planning    \
 Étude et conception : 12 semaines.
 

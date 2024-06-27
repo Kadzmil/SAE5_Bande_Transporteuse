@@ -7,7 +7,7 @@
 ## Cahier des charges
 
 
-1. Objet
+1. **Objet**/
 Conception, fabrication et intégration d'une bande transporteuse avec une supervision IHM (Interface Homme-Machine) permettant le contrôle et la visualisation de la bande transporteuse.
 
 2. Spécifications Techniques

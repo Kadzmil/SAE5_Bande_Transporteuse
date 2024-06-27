@@ -65,20 +65,21 @@ Rapidité : Temps de réponse rapide pour la mise en marche et l'arrêt.
 5. **Exigences de Maintenance**
    
 Alerte Préventive : Notifications automatiques pour planifier les interventions de maintenance.\
-Accessibilité : Composants facilement accessibles pour l'entretien et les réparations.
-7. **Planning**    \
+Accessibilité : Composants facilement accessibles pour l'entretien et les réparations.  
+7. **Planning** 
 
 Étude et conception : 12 semaines.
 
   
-## Inventaire
-Pour ce projet du matériel Schneider a été majoritairement été utilisé. L’automate est un M221TEC40R qui va être alimenté en 230V AC et l’IHM est un HARMONY alimenté en 24V DC.  
-![image_2024-06-26_181003562](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/57004fb4-d781-400c-a31f-79c30b8bdde6)  ![image_2024-06-26_181118490](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/831012e9-c399-4229-ab2c-e2859a1c2e7c) 
+## Inventaire 
+Pour ce projet du matériel Schneider a été majoritairement été utilisé. L’automate est un M221TEC40R qui va être alimenté en 230V AC et l’IHM est un HARMONY alimenté en 24V DC.
+
+![image_2024-06-26_181003562](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/57004fb4-d781-400c-a31f-79c30b8bdde6)  ![image_2024-06-26_181118490](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/831012e9-c399-4229-ab2c-e2859a1c2e7c)  
 
 Pour ce qui est des protections on a tout d'abord dans l'ordre un disjoncteur moteur magnétothermique qui va permettre de détecter et d'interrompre le courant électrique en cas de surcharge ou de court-circuit pour le moteur, deux disjoncteurs magnétothermique exerçant les mêmes fonctionnalités pour l'IHM et l'entrée du circuit ainsi qu'un sectionneur porte fusible pouvant à la fois protéger de la même manière que les disjoncteurs mais aussi être utilisé comme dispositifs afin de garantir qu'un circuit est complètement hors tension lorsqu'il doit être entretenu ou réparéutiliser en isoleant une partie de ce dernier. Ceci était pour la ligne du haut.\
 Pour celle du bas nous avons un contacteur permettant d'ouvrir ou fermer un circuit sur réception d'un signal électrique, le transformateur qui va nous délivrer du 24V AC pour les boutons puis le variateur de vitesse qui a comme fonction de choisir le sens de marche ainsi que la vitesse.
 
-![image_2024-06-26_190020088](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5483d57e-bd89-4138-9a49-2c1c878cee80) Composants
+![image_2024-06-26_190020088](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5483d57e-bd89-4138-9a49-2c1c878cee80) 
 
 Deplus, voici le transformateur rajouté à la fin permettant de nous délivrer la tension voulue pour alimenter l'IHM qui est du 24V DC.
 
@@ -86,16 +87,17 @@ Deplus, voici le transformateur rajouté à la fin permettant de nous délivrer 
 
 Lors de notre projet nous avons du naviguer à travers différents variateur voici les 3 utilisés dans l'ordre chronologique. Les 2 premiers n'ont pas été retenu car soit quelqu'un d'autre en avait besoin soit il était trop grand, mais une caractéristique les unies, ils fonctionnent en monophasé et non triphasé.
 
-![image_2024-06-26_182547281](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/545d7291-69f0-470c-86e3-5cb8753d7e31) 3 variateurs
+![image_2024-06-26_182547281](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/545d7291-69f0-470c-86e3-5cb8753d7e31) 
 ### Schématisation sur See Electrical
 
 Pour ce qui est des schémas au début nous sommes parti pour un système classique à 3 phases et 2 contacteurs. Ce système nous permets de pouvoir avoir les 2 sens de direction grace à l'inversion des phases sur l'un de nos contacteur. Vous pouver l'apercevoir ci dessous sur les deux premières images les anciens schémas de puissance et commande. \
 ![image_2024-06-26_181813138](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/3fd3cfca-3802-4a60-8b2d-3dd87447bde3) ![image_2024-06-26_181931456](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/cad9af3e-df7c-42e1-8cf6-088511da8eaa) **Ancien circuit de puissance**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ancien circuit de commande** \
 \
 Lors de l'anvancée du projet nous avons dû passer de 3 à 1 phase et supprimer un contacteur en raison du variateur de vitesse. De plus, 2 transformateurs ont été rajouté afin de pouvoir alimenter comme dis précédemment l'IHM et les boutons. C'est pourquoi de nouveau schémas ont été réalisé et sont consultable ci-dessous.
-![nv circuit puissance (1)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/e8e3ff0e-029f-4d7b-bd63-47c852e424e0) nv circuit de puissance
+![nv circuit puissance (1)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/e8e3ff0e-029f-4d7b-bd63-47c852e424e0)  
+**Nouveau circuit de puissance**
 
-![nv circuit puissance (2)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/eafb81ba-cba2-46e9-827f-9614f0c4c68e) nv circuit commande
+![nv circuit puissance (2)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/eafb81ba-cba2-46e9-827f-9614f0c4c68e) **Nouveau circuit commande**
 ### Programmation sur EcoStruxure Machine Expert
 ![gpn](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/bb61957b-ce6d-4d3b-a46f-ebb377492a8e) exemple grafcet
 ![rung1](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/6467ab2e-b94d-42b6-ada0-595c6a4e2d1a) exemple étape

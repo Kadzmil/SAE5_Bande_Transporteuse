@@ -26,7 +26,7 @@ Pour ce qui est des schémas au début nous sommes parti pour un système classi
 
 ![image_2024-06-26_181931456](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/cad9af3e-df7c-42e1-8cf6-088511da8eaa) ancien circuit de commande
 
-![image_2024-06-26_182103556](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/8e593845-2eaf-4915-a4c8-1b7e6eb4b0ec) nv circuit de puissance
+![nv circuit puissance (1)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/e8e3ff0e-029f-4d7b-bd63-47c852e424e0) nv circuit de puissance
 
 ![image_2024-06-26_182152991](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5d20d7b7-dc9b-4c7a-be45-382f5494982c) nv circuit commande
 ### Programmation sur EcoStruxure Machine Expert

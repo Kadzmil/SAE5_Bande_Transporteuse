@@ -88,6 +88,9 @@ Lors de l'anvancée du projet nous avons dû passer de 3 à 1 phase et supprimer
 
 ![nv circuit puissance (2)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/eafb81ba-cba2-46e9-827f-9614f0c4c68e) nv circuit commande
 ### Programmation sur EcoStruxure Machine Expert
+![gpn](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/bb61957b-ce6d-4d3b-a46f-ebb377492a8e) exemple grafcet
+![rung1](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/6467ab2e-b94d-42b6-ada0-595c6a4e2d1a) exemple étape
+
 ### Structuration de l'armoire
 
 <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/premi%C3%A8re_id%C3%A9e.jpg" alt="Description de l'image" width="300" height="300"/> <img src="https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/id%C3%A9e%20final.jpg" alt="Description de l'image" width="300" height="300"/>  \

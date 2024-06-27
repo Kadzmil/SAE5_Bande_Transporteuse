@@ -16,7 +16,7 @@ Conception, fabrication et intégration d'une bande transporteuse avec une super
 Capacité de charge : 12 Kg\
 Vitesse : Réglable mais avec un fonctionnement normal de 12m/minute \
 Moteur : 230/400 V.\
-Matériaux : Structure en acier inoxydable, tapis en pvc .\
+Matériaux : Structure en acier inoxydable, tapis en pvc .
 
 2.2. IHM (Interface Homme-Machine)
 Vue Automatique :\
@@ -39,25 +39,25 @@ Voyant de mise en service pour indiquer que l'armoire est alimentée.\
 Voyant d'arrêt pour indiquer que la bande est arrêtée.\
 Voyant de défaut pour indiquer une anomalie ou un dysfonctionnement.\
 
-3. Exigences Fonctionnelles\
+3. Exigences Fonctionnelles
 3.1. En Mode Automatique\
 La bande transporteuse doit être contrôlable depuis l'IHM.\
 La position des pièces sur la bande doit être affichée avec précision en temps réel.\
 
-3.2. En Mode Manuel\
+3.2. En Mode Manuel
 
 Les commandes doivent être accessibles et faciles à utiliser depuis l'armoire de contrôle.\
 Les fonctions de marche avant et arrière doivent être distinctes et clairement identifiées.\
 Les boutons de mise en marche et d'arrêt du moteur doivent être facilement accessibles.\
 Les voyants doivent fournir des indications claires et visibles sur l'état du système.\
 
-4. Exigences de Performance\
+4. Exigences de Performance
    
 Fiabilité : Fonctionnement continu et sans interruption sur de longues périodes.\
 Précision : Détection précise de la position des pièces sur la bande.\
 Rapidité : Temps de réponse rapide pour la mise en marche et l'arrêt.\
 
-5. Exigences de Maintenance\
+5. Exigences de Maintenance
 Alerte Préventive : Notifications automatiques pour planifier les interventions de maintenance.\
 Accessibilité : Composants facilement accessibles pour l'entretien et les réparations.\
 6. Planning    \

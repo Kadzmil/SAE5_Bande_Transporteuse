@@ -95,12 +95,16 @@ Pour ce qui est des schémas au début nous sommes parti pour un système classi
 \
 Lors de l'anvancée du projet nous avons dû passer de 3 à 1 phase et supprimer un contacteur en raison du variateur de vitesse. De plus, 2 transformateurs ont été rajouté afin de pouvoir alimenter comme dis précédemment l'IHM et les boutons. C'est pourquoi de nouveau schémas ont été réalisé et sont consultable ci-dessous.
 ![nv circuit puissance (1)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/e8e3ff0e-029f-4d7b-bd63-47c852e424e0)  
-**Nouveau circuit de puissance**
+**Nouveau circuit de puissance**\
+Comme on peut le voir on est donc passé de 3 phases a une seule ce qui engendrait la suppression d'un contacteur cependant notre variateur de vitesse renvoie du triphasé, de plus vu que nos boutons et voyants doivent être alimentés en courant alternative en 24 V, nous avons dû ajouter un transformateur dans notre circuit de puissance qui convertit du 230VAC en 24VAC. Par ailleurs, nous avons dû ajouter un transformateur qui convertit du 230 VAC en 24 VDC afin d'alimenter l'IHM.
 
-![nv circuit puissance (2)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/eafb81ba-cba2-46e9-827f-9614f0c4c68e) **Nouveau circuit commande**
+![nv circuit puissance (2)](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/eafb81ba-cba2-46e9-827f-9614f0c4c68e) **Nouveau circuit commande**\
+En ce qui concerne le schéma de commande, il n'y a pas eu tant de changement que ça, les boutons marche, arrêt, déplacement restent au même endroit ne serait ce la suppression du deuxième contacteur.
 ### Programmation sur EcoStruxure Machine Expert
-![gpn](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/bb61957b-ce6d-4d3b-a46f-ebb377492a8e) exemple grafcet
-![rung1](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/6467ab2e-b94d-42b6-ada0-595c6a4e2d1a) exemple étape
+![gpn](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/bb61957b-ce6d-4d3b-a46f-ebb377492a8e) exemple grafcet\
+Afin de programmer les deplacements de la bande transporteuse nous avons utiliser une programmation par grafcet sur le logiciel Ecostructure Machine Expert, pour ce faire on a du selectionner la page grafcet, pour ajouter des nouvelles etapes il suffit de cliquer deux fois dans une case ensuite de faire les liaisons entre les etapes (les transitions se font toutes seules)
+![rung1](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/6467ab2e-b94d-42b6-ada0-595c6a4e2d1a) exemple étape\
+Ensuite une fois que notre grafcet est fini (du moins la forme) on doit programmer les étapes et transitions dans ce qu'on appelle des rungs qui sont des programmes ladder comme on peut le voir sur l'exemple au-dessus lorsque l'étape 3 du grafcet est activée, la sortie Q0.0 s'active. 
 
 ### Structuration de l'armoire
 En ce qui concerne l'agencement de l'armoire électrique, il a fallu dans un premier temps découper dans les bonnes dimensions des rails et des goulottes pour les fixer sur la plaque métallique qui soutiendra le tout dans l'armoire afin de justememnt pouvoir mettre nos composants et câbles.  

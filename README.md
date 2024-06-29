@@ -126,15 +126,23 @@ Une fois la devanture décidé nous avons mesurer le diamètre des boutons et la
 Voici donc ce à quoi la porte ressemble, pour ce qui est de l'intérieur la photo au commencement du projet a été perdu mais vous pouvez apercevoir ce à quoi elle ressemble à la fin dans la partie suivante qui est le câblage.  
 ![image_2024-06-26_181259342](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/5a81e285-2322-4311-9d47-31ed9a82efe7)  
 ### Câblage
-![image_2024-06-27_153113325](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/c8ba61db-8181-4767-9609-208e03500b76)
+![image_2024-06-27_153113325](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/c8ba61db-8181-4767-9609-208e03500b76)\
+Voilà à quoi ressemble le câblage final de l'armoire, bien sûr, il manque à renommer les câbles et à mettre une gaine sur les câbles afin que ça soit plus pratique.
 ### Test
 ## IHM
 ### Programmation sur EcoStruxure Operator Terminal Expert
-![image_2024-06-26_181403762](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/e3ea87b3-beb9-4a59-914e-c5d610ef5aba) 1ere vue IHM
+![image_2024-06-26_181403762](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/e3ea87b3-beb9-4a59-914e-c5d610ef5aba) 1ere vue IHM\
+Dans cette vue IHM qui est la vue racine, c'est-à-dire la première vue sur laquelle l'utilisateur tombe, il peut choisir soit la vue auto ou bien la vue manu.
 
-![image_2024-06-26_181506123](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/62968746-13c0-4afb-ab48-19e88a982e6b) vue mode auto
+![image_2024-06-26_181506123](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/62968746-13c0-4afb-ab48-19e88a982e6b) vue mode auto\
+Dans cette vue auto ,on peut activer la marche du tapis via le bouton start ,l'arrêt du tapis via le bouton stop on a aussi la visualisation des deux capteurs de fin de course droite et gauche celui de droite sert en tant que condition initiale afin que le tapis avance et celui de gauche à ce qu'une fois une pièce atteint ce capteur le tapis s'arrête, de plus on a une illustration du moteur afin de mieux s'orienter(de savoir où est la gauche du tapis où est la droite) si jamais l'IHM n'est pas face au tapis, un bouton retour afin de revenir sur la vue des sélections du mode de marche (auto ou manu), un indicateur en haut à gauche afin de savoir qu'elle est mode est actuellement sélectionné. 
 
-![image_2024-06-26_181547640](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/9654a637-2be7-47d5-8ed5-33bc86cffd10) vue mode manu
+![image_2024-06-26_181547640](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/9654a637-2be7-47d5-8ed5-33bc86cffd10) vue mode manu\
+En ce qui concerne la vue manu il n'y a pas grand-chose de différent par rapport à la vue auto,seulement qu'on a plus les boutons start et stop qui on était remplacé par un bouton droit et un bouton gauche qui servent a avancé le tapis vers le sens désiré. Ces boutons doivent être maintenus afin que le tapis avance.\
+Apres une révision de notre cahier des charges nous avons décidé de supprimer la vue manu de l'ihm et de garder seulement la vue auto.
+
+
+
 ### Test IHM
 ![image_2024-06-26_182352833](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/b8ac8ef3-c5f1-4927-afe8-baee6b622a8a) IHM grillé
 

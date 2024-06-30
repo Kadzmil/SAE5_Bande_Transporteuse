@@ -144,6 +144,8 @@ Apres une révision de notre cahier des charges nous avons décidé de supprimer
 
 
 ### Test IHM
+
+Une fois l'IHM de prêt, une première mise en service a été effectué, malheureusement une erreur de précipitation a été commise. N'ayant pas fait attention à ce qui était écrit dessus nous nous sommes dis qu'il fallait l'alimenter de la même manière que l'automate donc directement branché au 230V AC. Mais comme nous pouvons l'apercevoir ci dessous cela ne lui a pas réussi. En effet, l'interface devait en réalité être alimenté en 24V DC ce qui a été corrigé par la suite une fois réparé.  
 ![image_2024-06-26_182352833](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/assets/166384885/b8ac8ef3-c5f1-4927-afe8-baee6b622a8a) IHM grillé
 
 
@@ -151,10 +153,6 @@ Apres une révision de notre cahier des charges nous avons décidé de supprimer
 
 
 
-
-![](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/d%C3%A9coupe%20rail.jpg)
-
-![](https://github.com/Kadzmil/SAE5_Bande_Transporteuse/blob/Main/Images/IMG_20240416_143353.jpg)
 
 
 
